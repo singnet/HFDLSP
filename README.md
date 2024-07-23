@@ -104,4 +104,4 @@ Contributions to this project are welcome. Please follow these steps:
 
 ## License
 
-[Specify the license under which this project is released]
+Apache License: http://www.apache.org/licenses/
