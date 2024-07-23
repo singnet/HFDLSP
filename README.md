@@ -84,7 +84,7 @@ The API is secured using API key authentication. Ensure you set the `API_KEY` en
 
 ## Deployment
 
-The project is designed to be deployed on AWS. Key components of the deployment include:
+The project is deployed on AWS, but is designed to be deployed on any Cloud service. Key components of the deployment include:
 
 - EC2 instances for hosting the application
 - Load balancing and auto-scaling configurations
