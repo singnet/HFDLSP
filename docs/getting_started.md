@@ -1,2 +1,0 @@
-- Setup instructions: Details on how to set up the project locally, including environment setup and dependencies.
-- Configuration details: Explanation of configuration files and environment variables.
